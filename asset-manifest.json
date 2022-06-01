@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/solapp/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/solapp/static/js/main.6dcf6477.chunk.js",
-    "main.js.map": "/solapp/static/js/main.6dcf6477.chunk.js.map",
+    "main.js": "/solapp/static/js/main.23beb9dc.chunk.js",
+    "main.js.map": "/solapp/static/js/main.23beb9dc.chunk.js.map",
     "runtime-main.js": "/solapp/static/js/runtime-main.e61e8514.js",
     "runtime-main.js.map": "/solapp/static/js/runtime-main.e61e8514.js.map",
     "static/js/2.f715112a.chunk.js": "/solapp/static/js/2.f715112a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e61e8514.js",
     "static/js/2.f715112a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.6dcf6477.chunk.js"
+    "static/js/main.23beb9dc.chunk.js"
   ]
 }
